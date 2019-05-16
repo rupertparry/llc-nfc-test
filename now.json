@@ -1,3 +1,4 @@
 {
-  "alias": ["llc-nfc-test"]
+  "version": 1,
+  "alias": "llc-nfc-test"
 }
