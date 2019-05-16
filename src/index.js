@@ -1,3 +1,7 @@
+document.querySelector("#read").addEventListener("click", () => {
+  readWriteNfc();
+});
+
 function readWriteNfc() {
   if ("nfc" in navigator) {
     navigator.nfc
